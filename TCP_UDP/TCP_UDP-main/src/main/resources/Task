@@ -1,0 +1,27 @@
+// Create a simple client–server application using TCP sockets where:
+
+// 1) The server waits for a client to connect.
+
+// 2) The client sends its choice: "rock", "paper", or "scissors".
+
+// The server randomly selects "rock", "paper", or "scissors".
+
+// The server sends back The server's choice. + The result: "You win", "You lose", or "Draw".
+
+// The game repeats until the client sends "quit".
+
+/*_____________________________________________________________________________________________*/
+
+// Create a simple client–server game using UDP sockets where:
+
+// 1) The server chooses a random number between 1 and 10 when it starts.
+
+// 2)The client sends guesses (numbers) to the server.
+
+// The server replies with:"Too high", "Too low", or "Correct! You win!" (and then ends the game).
+
+// The client can send multiple guesses until they get it correct.
+
+/*_____________________________________________________________________________________________*/
+
+// Post your GitHub link on this form --> https://forms.gle/8SYB1VgG4Afs5wth9
